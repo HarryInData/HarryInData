@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,'Courier New',monospace" width="985px" height="530px" font-size="15px">
+<style>
+@font-face {
+  src: local('Consolas'), local('Consolas Bold'), local('Courier New');
+  font-family: 'ConsolasFallback';
+  font-display: swap;
+}
+.bg { fill: #0d0d12; stroke: #ff003f; stroke-width: 2; rx: 14; }
+.header-bar { fill: #171720; rx: 14 14 0 0; }
+.term-dot-red { fill: #ff3344; }
+.term-dot-yellow { fill: #ffcc00; }
+.term-dot-green { fill: #00dd77; }
+.term-title { fill: #888899; font-size: 13px; }
+.ascii { fill: #ff1a40; font-weight: bold; }
+.user-host { fill: #ffffff; font-weight: bold; }
+.accent { fill: #ff003f; font-weight: bold; }
+.divider { fill: #444455; }
+.key { fill: #ff2a4b; font-weight: 600; }
+.value { fill: #f2f2f7; }
+.val-hl { fill: #ff7788; }
+.cc { fill: #48485a; }
+.section-hdr { fill: #ff003f; font-weight: bold; }
+text, tspan { white-space: pre; }
+</style>
+
+<!-- Terminal Window Background with Persona 5 Crimson Accent -->
+<rect width="985px" height="530px" class="bg" />
+
+<!-- Top Window Header Bar -->
+<path d="M 0 14 Q 0 0 14 0 L 971 0 Q 985 0 985 14 L 985 32 L 0 32 Z" fill="#15151c" />
+<circle cx="22" cy="16" r="6" class="term-dot-red" />
+<circle cx="42" cy="16" r="6" class="term-dot-yellow" />
+<circle cx="62" cy="16" r="6" class="term-dot-green" />
+<text x="492" y="20" text-anchor="middle" class="term-title">harry@HarryInData: ~ (persona-5-mode)</text>
+
+<!-- ASCII Art on Left Side (Harry's PFP) -->
+<text x="18" y="55" class="ascii">
+<tspan x="18" y="55">            hhjttu!|!;;:,,&#x27;           </tspan>
+<tspan x="18" y="74">          @%#bpkphtnutnv|!;,:         </tspan>
+<tspan x="18" y="93">        ggg%#ggMmkdpdddjnnuttnv       </tspan>
+<tspan x="18" y="112">       WM%%@@@@@@M####WWbpppddhv      </tspan>
+<tspan x="18" y="131">      #%ggMg@@@@@@@@M@@g@@gWpdkkv     </tspan>
+<tspan x="18" y="150">     W#@g@g@@@@@@@g#%g@@@@@ggWwbht    </tspan>
+<tspan x="18" y="169">     db@@@@@@@#bbmbkW@@@@@@@@@%bjd!   </tspan>
+<tspan x="18" y="188">     dpW#gg@@@%%M##%g@@@@@@gu;&#x27;`;,    </tspan>
+<tspan x="18" y="207">     gg@%Wg@@MM@%%MM@@@@@@wjd|:,&#x27;     </tspan>
+<tspan x="18" y="226">     mM@@##@%wwg@@@@%M@@@@ptWd|       </tspan>
+<tspan x="18" y="245">      jWMMM@ggM#gM%%#W%WWM#gd:        </tspan>
+<tspan x="18" y="264">      !ud|uW@@@M##M@@@@@@@%jt         </tspan>
+<tspan x="18" y="283">       uh:;pg@gg@@@M@@@@@gWh          </tspan>
+<tspan x="18" y="302">       nju|h%@@@@g%#g@M#bjv           </tspan>
+<tspan x="18" y="321">       !vjkW@@@gMMwwwpjn|!:           </tspan>
+<tspan x="18" y="340">      &#x27;!vtpwWgg@@@wdhjnn|:,`          </tspan>
+<tspan x="18" y="359">     ;:vuhhjjkwWWbjtdt;:,&#x27;&#x27;```        </tspan>
+<tspan x="18" y="378">    jv!vthhjthdphhk#wt,&#x27;```           </tspan>
+<tspan x="18" y="397">  jkdjjuthpppmw#%%Wbmv;;:,,&#x27;`!nvnnv   </tspan>
+<tspan x="18" y="416"> tkkppppdpbbm##ggMmWd||!!!!:uwmMg%##b </tspan>
+<tspan x="18" y="435">WwgM#wkbkmmmW#M@gg@WtnnnnnvnM@@@@@@@g@</tspan>
+<tspan x="18" y="454">@@@%pkkkbmW%@%%%M#%wjutjhjd#@g@@@Mg@@M</tspan>
+<tspan x="18" y="473">g%W%Mwbpw#WMgMM@MW%mjhppkW@@@@@@@@@bu;</tspan>
+<tspan x="18" y="492">nnutjjjjdpbbbmwwwwmjnnuutpkdddhhjj!&#x27;&#x27;,</tspan>
+<tspan x="18" y="511">:,,,&#x27;&#x27;,,,,,,,,,,,,,,,:,:::,,,,,,,,:;;;</tspan>
+</text>
+
+<!-- System / Profile Information on Right Side -->
+<text x="380" y="55" fill="#f2f2f7">
+<tspan x="380" y="55"><tspan class="user-host">harry@HarryInData</tspan> <tspan class="divider">-----------------------------------------------------</tspan></tspan>
+<tspan x="380" y="75" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">Linux (Fedora / Ubuntu), Windows 11, Android</tspan>
+<tspan x="380" y="95" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">IMS Ghaziabad </tspan><tspan class="cc">(</tspan><tspan class="val-hl">BCA 2025 – 2028</tspan><tspan class="cc">)</tspan>
+<tspan x="380" y="115" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">AI &amp; Machine Learning Engineer | Builder</tspan>
+<tspan x="380" y="135" class="cc">. </tspan><tspan class="key">Focus</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">Generative AI, LLM Systems &amp; Neural Nets</tspan>
+<tspan x="380" y="155" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">VSCode, Cursor, PyCharm, Jupyter Lab</tspan>
+<tspan x="380" y="175" class="cc">. </tspan>
+<tspan x="380" y="195" class="cc">. </tspan><tspan class="key">Languages.Programming</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">Python, JavaScript, TypeScript, C++, SQL</tspan>
+<tspan x="380" y="215" class="cc">. </tspan><tspan class="key">Frameworks.AI &amp; ML</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">PyTorch, TensorFlow, HuggingFace, Scikit-learn</tspan>
+<tspan x="380" y="235" class="cc">. </tspan><tspan class="key">Frameworks.FullStack</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">Next.js, React, Node.js, Flask, FastAPI</tspan>
+<tspan x="380" y="255" class="cc">. </tspan><tspan class="key">Data.Analytics</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">Pandas, NumPy, EDA, Data Pipelines, OpenCV</tspan>
+<tspan x="380" y="275" class="cc">. </tspan><tspan class="key">Databases &amp; Cloud</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">MongoDB, Firebase, MySQL, GCP, Docker</tspan>
+<tspan x="380" y="295" class="cc">. </tspan>
+<tspan x="380" y="315" class="cc">. </tspan><tspan class="key">Hobbies.AI</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">Fine-Tuning Models, Agentic AI, Prompt Eng</tspan>
+<tspan x="380" y="335" class="cc">. </tspan><tspan class="key">Hobbies.Tech</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Open Source, Linux Ricing, Building Startups</tspan>
+<tspan x="380" y="365"><tspan class="section-hdr">- Contact</tspan> <tspan class="divider">---------------------------------------------------------</tspan></tspan>
+<tspan x="380" y="385" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">https://github.com/HarryInData</tspan>
+<tspan x="380" y="405" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">Harry Kishan Singh</tspan>
+<tspan x="380" y="425" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">HarryInData@users.noreply.github.com</tspan>
+<tspan x="380" y="455"><tspan class="section-hdr">- Status &amp; Mission</tspan> <tspan class="divider">------------------------------------------------</tspan></tspan>
+<tspan x="380" y="475" class="cc">. </tspan><tspan class="key">Mission</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">Turning raw data into intelligent products.</tspan>
+<tspan x="380" y="495" class="cc">. </tspan><tspan class="key">Current Goal</tspan>:<tspan class="cc"> .................. </tspan><tspan class="val-hl">Building AI-first systems &amp; open source tools</tspan>
+<tspan x="380" y="515" class="cc">. </tspan><tspan class="key">Quote</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">"Take Your Heart" -- Phantom Thieves of Hearts</tspan>
+</text>
+</svg>
