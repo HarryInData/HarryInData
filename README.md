@@ -40,11 +40,11 @@
 <br/>
 
 <!-- ========================================== -->
-<!-- 💻 NEOFETCH TERMINAL PROFILE (ASCII PFP) -->
+<!-- 💻 NEOFETCH TERMINAL PROFILE (PORTRAIT) -->
 <!-- ========================================== -->
 <div align="center">
   <a href="https://github.com/HarryInData">
-    <img src="./assets/images/terminal_profile.svg" width="100%" alt="Harry's Neofetch Terminal Profile" style="border-radius: 14px;"/>
+    <img src="./assets/images/terminal_profile.png" width="100%" alt="Harry's Neofetch Terminal Profile" style="border-radius: 14px;"/>
   </a>
 </div>
 
