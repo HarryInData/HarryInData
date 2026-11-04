@@ -6,40 +6,19 @@
 </a>
 
 <!-- ========================================== -->
-<!-- 🛡️ ANIMATED PROFILE BADGES (HIGH METRICS) -->
-<!-- ========================================== -->
 <div align="center">
-  <a href="https://github.com/HarryInData">
-    <img src="https://img.shields.io/badge/RANK-S%2B%20ELITE-FF003F?style=for-the-badge&logo=target&logoColor=white" alt="Rank S+" />
-  </a>
-  <a href="https://github.com/HarryInData?tab=repositories">
-    <img src="https://img.shields.io/badge/TOTAL%20COMMITS-2%2C680%2B-FF003F?style=for-the-badge&logo=git&logoColor=white" alt="Commits" />
-  </a>
-  <a href="https://github.com/HarryInData">
-    <img src="https://img.shields.io/badge/PHANTOM%20STARS-520%2B-FF003F?style=for-the-badge&logo=star&logoColor=white" alt="Stars" />
-  </a>
-  <a href="https://github.com/HarryInData?tab=followers">
-    <img src="https://img.shields.io/badge/FOLLOWERS-120%2B-FF003F?style=for-the-badge&logo=person-add&logoColor=white" alt="Followers" />
-  </a>
-  <a href="https://komarev.com/ghpvc/?username=HarryInData&label=METAVERSE+VIEWS&style=for-the-badge&color=FF0000">
-    <img src="https://komarev.com/ghpvc/?username=HarryInData&label=METAVERSE+VIEWS&style=for-the-badge&color=FF0000" alt="Profile Views" />
-  </a>
+  <b>BCA student at IMS Ghaziabad (2025–2028) · Aspiring AI/ML Engineer</b>
 </div>
 
 <br/>
 
-<!-- ========================================== -->
-<!-- ⌨️ ANIMATED TYPING HEADER                  -->
-<!-- ========================================== -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2600&pause=800&color=FF003F&background=00000000&center=true&vCenter=true&width=750&lines=System.out.println(%22Wake+Up%2C+Get+Up%2C+Get+Out+There!%22);AI+%26+Machine+Learning+Architect+%E2%80%A2+Prodigy+Builder;Turning+raw+data+into+intelligent+products.;BCA+%40+IMS+Ghaziabad+%7C+2025+%E2%80%93+2028;Building+Autonomous+Agents+%26+Generative+Neural+Systems.;Take+Your+Heart+%E2%80%A2+Welcome+to+the+Metaverse+Terminal." alt="Typing SVG" />
-  </a>
+  <h3>Learning through building</h3>
+  <p>Python · Machine Learning · Applied AI · Generative AI</p>
 </div>
 
 <br/>
 
-<!-- ========================================== -->
 <!-- 🎮 DUAL ANIMATED PERSONA 5 SHOWCASE BATTLE -->
 <!-- ========================================== -->
 <table align="center" width="100%">
@@ -53,10 +32,7 @@
   </tr>
 </table>
 
-<!-- Animated CLI Terminal Line -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2400&pause=800&color=FF003F&background=0D0D12&center=true&vCenter=true&width=820&height=42&lines=%24+phantom-cli+--infiltrate+--target=%22Artificial+Intelligence%22;%24+status%3A+Level+99+AI+%26+Machine+Learning+Architect;%24+active-mission%3A+Deploying+Multi-Agent+Generative+Systems;%24+stealing-hearts%3A+Turning+Chaotic+Data+into+Pure+Intelligence" alt="CLI Terminal" style="border-radius: 8px; border: 1.5px solid #FF003F;"/>
-</div>
+<div align="center"><b>Current focus: Python, machine learning, and applied AI projects</b></div>
 
 <br/>
 
@@ -71,11 +47,9 @@
 
 <div align="justify">
 
-I am **Harry Kishan Singh** (known as **Harry**), an aspiring **AI & Machine Learning Engineer** and **Data Analyst** pursuing `BCA @ IMS Ghaziabad (2025 – 2028)`. I specialize in transforming raw, unstructured data into actionable insights and high-performance intelligent products.
+I'm a BCA student at IMS Ghaziabad (2025–2028), building my foundation in Python, machine learning, and applied AI. My public projects are learning projects, and I aim to document their setup and behavior clearly.
 
-My technical passion lives at the intersection of **Generative AI**, **Deep Learning**, and **full-stack software architecture**. I don't just train models — I build complete end-to-end applications that solve real-world challenges, utilizing modern stacks including `Next.js`, `React`, `Python`, `PyTorch`, `Flask`, and `FastAPI`.
-
-Currently, I am actively developing **AI-first systems**, exploring **LLM fine-tuning**, autonomous multi-agent architectures, and production-grade cloud deployments. Constantly pushing boundaries as an engineer, open-source contributor, and future founder.
+One current project is a small Python retrieval demo. It chunks a fictional knowledge base, embeds the chunks, compares vectors with cosine similarity, and passes retrieved context to a chat model. See the repository below for its setup and limitations.
 
 </div>
 
@@ -88,7 +62,7 @@ Currently, I am actively developing **AI-first systems**, exploring **LLM fine-t
   <a href="https://github.com/HarryInData" target="_blank">
     <img width="120px" src="https://img.shields.io/badge/GitHub-FF0000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com" target="_blank">
+  <a href="https://www.linkedin.com/in/hari-kishan-singh-720540397/" target="_blank">
     <img width="125px" src="https://img.shields.io/badge/LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:HarryInData@users.noreply.github.com" target="_blank">
@@ -117,30 +91,6 @@ Currently, I am actively developing **AI-first systems**, exploring **LLM fine-t
 <br/>
 
 <!-- ========================================== -->
-<!-- 🔥 METAVERSE DEVELOPER METRICS (DUMMY DATA)-->
-<!-- ========================================== -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:330009,100:FF003F&height=50&section=header&text=%F0%9F%94%A5%20METAVERSE%20DEVELOPER%20METRICS&fontSize=22&fontColor=ffffff&fontAlignY=55" width="100%"/>
-  <br/><br/>
-  <img src="./assets/images/stats_dashboard.svg" width="100%" alt="Harry's Developer Metrics" />
-</div>
-
-<br/>
-
-<!-- ========================================== -->
-<!-- 🏆 GITHUB TROPHIES & ACHIEVEMENTS          -->
-<!-- ========================================== -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:330009,100:FF003F&height=50&section=header&text=%F0%9F%8F%86%20GITHUB%20ACHIEVEMENTS%20%26%20TROPHIES&fontSize=22&fontColor=ffffff&fontAlignY=55" width="100%"/>
-  <br/><br/>
-  <a href="https://github.com/HarryInData">
-    <img src="./assets/images/trophies.svg" width="100%" alt="Harry's GitHub Trophies" />
-  </a>
-</div>
-
-<br/>
-
-<!-- ========================================== -->
 <!-- 🚀 FLAGSHIP PROJECTS                       -->
 <!-- ========================================== -->
 <div align="center">
@@ -149,58 +99,17 @@ Currently, I am actively developing **AI-first systems**, exploring **LLM fine-t
 
 <br/>
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/HarryInData/harry-ai-friend-mentor">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HarryInData&repo=harry-ai-friend-mentor&theme=tokyonight&bg_color=0D0D12&title_color=FF003F&text_color=FFFFFF&icon_color=FF003F&border_color=FF003F" width="100%" alt="harry-ai-friend-mentor" />
-      </a>
-      <br/>
-      <b>🤖 AI Friend &amp; Mentor Agent</b><br/>
-      Conversational AI buddy for technical interview prep, daily task prioritization, and study help.<br/>
-      ⭐ <b>340+ Stars</b> • 🍴 <b>58 Forks</b> • 👥 <b>1,400+ Active Users</b><br/>
-      <code>Python</code> <code>Streamlit</code> <code>Hugging Face</code> <code>LLMs</code> <code>Render</code>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/HarryInData/GST_Ai">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HarryInData&repo=GST_Ai&theme=tokyonight&bg_color=0D0D12&title_color=FF003F&text_color=FFFFFF&icon_color=FF003F&border_color=FF003F" width="100%" alt="GST_Ai" />
-      </a>
-      <br/>
-      <b>📊 GST_Ai / InsightAi Analytics Engine</b><br/>
-      High-throughput analytics platform capable of processing massive datasets to produce instant executive dashboards and summary insights.<br/>
-      ⭐ <b>280+ Stars</b> • ⚡ <b>50K+ Records/sec</b> • 📊 <b>99.9% Uptime</b><br/>
-      <code>TypeScript</code> <code>Next.js</code> <code>Data Analytics</code> <code>TailwindCSS</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <br/>
-      <a href="https://github.com/HarryInData/customer_churn-prediction">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HarryInData&repo=customer_churn-prediction&theme=tokyonight&bg_color=0D0D12&title_color=FF003F&text_color=FFFFFF&icon_color=FF003F&border_color=FF003F" width="100%" alt="customer_churn-prediction" />
-      </a>
-      <br/>
-      <b>🔮 Customer Churn Prediction Engine</b><br/>
-      End-to-end Machine Learning pipeline utilizing historical telemetry to identify at-risk customers with exploratory data analysis, feature engineering, and ROC-AUC evaluation.<br/>
-      ⭐ <b>195+ Stars</b> • 🎯 <b>94.6% ROC-AUC</b> • 🔬 <b>15,000+ Test Samples</b><br/>
-      <code>Python</code> <code>Scikit-learn</code> <code>Pandas</code> <code>NumPy</code> <code>Matplotlib</code>
-    </td>
-    <td width="50%" valign="top">
-      <br/>
-      <a href="https://github.com/HarryInData/vecter_memory">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HarryInData&repo=vecter_memory&theme=tokyonight&bg_color=0D0D12&title_color=FF003F&text_color=FFFFFF&icon_color=FF003F&border_color=FF003F" width="100%" alt="vecter_memory" />
-      </a>
-      <br/>
-      <b>🧠 Vector Memory for Autonomous Agents</b><br/>
-      High-performance vector embeddings storage and semantic retrieval engine enabling long-term memory for AI agents and LLM applications.<br/>
-      ⭐ <b>410+ Stars</b> • ⚡ <b>&lt;8ms Retrieval</b> • 🤖 <b>HNSW Indexing</b><br/>
-      <code>Python</code> <code>Vector Embeddings</code> <code>NLP</code> <code>AI Agents</code>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table align="center" width="100%">
+    <tr><td>
+      <a href="https://github.com/HarryInData/vecter_memory"><b>Vector Memory Workshop — Python Retrieval Demo</b></a><br/>
+      A small Python retrieval demo that chunks a fictional knowledge base, stores embeddings in a local JSON file, ranks matches by cosine similarity, and provides retrieved context to a chat model. It does not use a vector database.
+    </td></tr>
+  </table>
+</div>
 
 <br/>
 
-<!-- ========================================== -->
 <!-- 🎮 GAMES & INTERACTIVE ANIMATIONS          -->
 <!-- ========================================== -->
 <div align="center">
@@ -242,55 +151,21 @@ Currently, I am actively developing **AI-first systems**, exploring **LLM fine-t
 <br/>
 
 <!-- ========================================== -->
-<!-- ⚡ ANIMATED ACTIVITY GRAPH (514 COMMITS)   -->
-<!-- ========================================== -->
+<!-- GitHub contribution activity -->
 <div align="center">
-  <img src="./assets/images/Contributions.svg" width="60%">
-  <br/><br/>
-  <img src="./assets/images/activity_graph.svg" width="100%" alt="Harry's Animated Activity Graph" />
+  <a href="https://github.com/HarryInData/graphs/contributors">View GitHub contribution activity</a>
 </div>
 
 <br/>
 
-<!-- ========================================== -->
-<!-- 🔥 TECH STACK & REPOSITORY STATS           -->
-<!-- ========================================== -->
 <div align="center">
-  <img src="./assets/images/Stack.svg" width="60%">
-  <br/><br/>
+  <h2>Currently learning</h2>
+  <p>Python · Machine Learning · Generative AI · Data Science</p>
+  <p><a href="https://github.com/HarryInData?tab=repositories">Explore my repositories</a></p>
 </div>
-
-<table align="center" width="100%">
-  <tr>
-    <!-- Left Column: Tech Arsenal -->
-    <td valign="top" width="50%">
-      <div align="center">
-        <b>🧠 Machine Learning &amp; Data</b><br/>
-        <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,mysql,mongodb" /><br/><br/>
-        <b>🌐 Full Stack &amp; Web</b><br/>
-        <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,flask,nodejs" /><br/><br/>
-        <b>🛠️ Systems, DevOps &amp; Tools</b><br/>
-        <img src="https://skillicons.dev/icons?i=git,github,docker,gcp,firebase,linux" /><br/><br/>
-        <b>💻 Environments &amp; Languages</b><br/>
-        <img src="https://skillicons.dev/icons?i=vscode,cpp,html,css,tailwind,postman" />
-      </div>
-    </td>
-    <!-- Right Column: GitHub Persona 5 Stats -->
-    <td valign="top" width="50%">
-      <div align="center">
-        <a href="https://git.io/streak-stats">
-          <img src="https://streak-stats.demolab.com?user=HarryInData&theme=dark&background=0D0D12&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF0000&sideLabels=FF0000&dates=FFFFFF&border=FF0000&border_radius=12" width="100%" alt="Streak Stats" />
-        </a>
-        <br/><br/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarryInData&layout=compact&theme=tokyonight&bg_color=0D0D12&title_color=FF0000&text_color=FFFFFF&border_color=FF0000&hide_border=false&border_radius=12" alt="Top Languages" width="100%"/>
-      </div>
-    </td>
-  </tr>
-</table>
 
 <br/>
 
-<!-- ========================================== -->
 <!-- 🎵 CURRENT SOUNDTRACK // METAVERSE         -->
 <!-- ========================================== -->
 <div align="center">
