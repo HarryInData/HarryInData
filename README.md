@@ -1,9 +1,10 @@
 <!-- ========================================== -->
 <!-- 🔴 BANNER                                 -->
 <!-- ========================================== -->
-<a href="https://github.com/HarryInData">
-  <img src="assets/images/Banner.jpg" alt="Harry - AI Engineer Banner" style="width:100%; height:auto; border-radius: 12px;"/>
-</a>
+<div align="center">
+  <h1>Hari Kishan Singh</h1>
+  <p>BCA student at IMS Ghaziabad (2025–2028) · Aspiring AI/ML Engineer</p>
+</div>
 
 <!-- ========================================== -->
 <div align="center">
